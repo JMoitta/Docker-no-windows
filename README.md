@@ -8,3 +8,5 @@ Baixe o [docker toolbox](https://www.docker.com/products/docker-toolbox), altera
 - Docker Compose for Windows.
 - VirtualBox.
 - Kitematic for Windows (caso você ja tenha o git no seu windows e necessario reinstalar).
+
+Clique em "Next", outra vez em "Next", clique em "Install" 
